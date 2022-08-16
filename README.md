@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/a5rgoqykhlftsjv5?svg=true)](https://ci.appveyor.com/project/Brejnev1917/cardorder1)
+[![Build status](https://ci.appveyor.com/api/projects/status/flliv3cfhqbgxt09/branch/master?svg=true)](https://ci.appveyor.com/project/Brejnev1917/Cardorder1/branch/master)
